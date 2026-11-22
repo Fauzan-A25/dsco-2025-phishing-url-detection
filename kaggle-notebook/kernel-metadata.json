@@ -1,0 +1,1 @@
+{"id": "fauzan2/dsco-2025-phishing-url", "title": "DSCO 2025 Phishing URL", "code_file": "dsco-2025-phishing-url.ipynb", "language": "python", "kernel_type": "notebook", "is_private": true, "enable_gpu": false, "enable_internet": false, "dataset_sources": ["fauzan2/dsco-2025-phishing-data", "fauzan2/dsco-2025-phishing-src"], "competition_sources": [], "kernel_sources": []}

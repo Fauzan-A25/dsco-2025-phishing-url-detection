@@ -1,0 +1,9 @@
+,AUC OOF,std antar seed
+aturan beranda https://www,0.9590768610756305,0.0
+"regresi logistik, fitur bawaan",0.9712031267027723,1.6707780943421493e-05
+TF-IDF karakter + regresi logistik,0.9751349476687284,0.00015675888803206363
+"LightGBM, fitur bersih dari URL",0.9875536566434312,8.99755510050652e-05
+rata-rata peringkat: LightGBM bawaan + bersih & TF-IDF,0.9879765434545533,
+"LightGBM, fitur bawaan",0.9930865595029311,3.990861476692553e-05
+"LightGBM, bawaan + bersih",0.9932551684732905,5.095488849351186e-05
+"LightGBM, bawaan + bersih + penanda",0.9932746541483942,4.8578237630252296e-05
